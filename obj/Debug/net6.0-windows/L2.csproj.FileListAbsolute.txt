@@ -1,0 +1,17 @@
+C:\L2\bin\Debug\net6.0-windows\L2.exe
+C:\L2\bin\Debug\net6.0-windows\L2.deps.json
+C:\L2\bin\Debug\net6.0-windows\L2.runtimeconfig.json
+C:\L2\bin\Debug\net6.0-windows\L2.dll
+C:\L2\bin\Debug\net6.0-windows\L2.pdb
+C:\L2\obj\Debug\net6.0-windows\L2.csproj.AssemblyReference.cache
+C:\L2\obj\Debug\net6.0-windows\L2.Form1.resources
+C:\L2\obj\Debug\net6.0-windows\L2.csproj.GenerateResource.cache
+C:\L2\obj\Debug\net6.0-windows\L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\L2\obj\Debug\net6.0-windows\L2.AssemblyInfoInputs.cache
+C:\L2\obj\Debug\net6.0-windows\L2.AssemblyInfo.cs
+C:\L2\obj\Debug\net6.0-windows\L2.csproj.CoreCompileInputs.cache
+C:\L2\obj\Debug\net6.0-windows\L2.dll
+C:\L2\obj\Debug\net6.0-windows\refint\L2.dll
+C:\L2\obj\Debug\net6.0-windows\L2.pdb
+C:\L2\obj\Debug\net6.0-windows\L2.genruntimeconfig.cache
+C:\L2\obj\Debug\net6.0-windows\ref\L2.dll
